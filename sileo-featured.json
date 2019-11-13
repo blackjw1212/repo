@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{296, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+        "url": "https://raw.githubusercontent.com/blackjw1212/repo/master/assets/Banners/RepoHeader.png",
+        "title": "blackjw1212 Package",
+        "package": "com.sukarodo.samplepackage",
+        "hideShadow": false
+    }
+  ]
+}
