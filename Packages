@@ -1,16 +1,14 @@
-Package: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Version: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Architecture: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Maintainer: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Filename: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Size: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-MD5sum: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-SHA1: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-SHA256: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Section: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Description: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-SileoDepiction: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py or Manually Entered if Not In Tweaks `control` file.
-Depiction: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py or Manually Entered if Not In Tweaks `control` file.
-Installed-Size: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Name: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
-Priority: AUTOMATICALLY ENTERED BY SCRIPT / DPKG-SCANPACKAGES.py
+Package: com.blackjw1212.esunbankbypass
+Version: 1.0-69+debug
+Architecture: iphoneos-arm
+Maintainer: Yud1 <smilelove426@gmai.com>
+Depends: mobilesubstrate
+Filename: ./debians/com.blackjw1212.esunbankbypass_1.0-69+debug.deb
+Size: 6572
+MD5sum: 2642d09c28ebcf8114218897dcf9a15c
+Section: Tweaks
+Priority: optional
+Description: Bypass ESunbank Jailbreak Detection
+Author: Yud1 <smilelove426@gmai.com>
+Depiction: https://blackjw1212.github.io/repo/depictions/?p=com.blackjw1212.esunbankbypass
+Name: ESunbank Bypass
