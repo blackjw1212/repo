@@ -1,0 +1,44 @@
+Package: com.blackjw1212.esunbankbypass
+Version: 1.0-69+debug
+Architecture: iphoneos-arm
+Maintainer: Yud1 <smilelove426@gmai.com>
+Depends: mobilesubstrate
+Filename: ./debians/com.blackjw1212.esunbankbypass_1.0-69+debug.deb
+Size: 6,602
+MD5sum: 1bc5d482dd50daf15525e894b58327a5
+Section: Tweaks
+Priority: optional
+Description: Bypass ESunbank Jailbreak Detection
+Author: Yud1 <smilelove426@gmai.com>
+Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.esunbankbypass
+Name: ESunbank Bypass
+
+Package: com.blackjw1212.LocalIAPStore
+Version: 1.4-1
+Architecture: iphoneos-arm
+Maintainer: 
+Depends: mobilesubstrate
+Filename: ./debians/com.blackjw1212.LocalIAPStore_1.4-1.deb
+Size: 71,050
+MD5sum: 8a0153fd65dd6feb1e42ed0a66d3e27a
+Section: Tweaks
+Priority: optional
+Description: Pwns In-app purchases on iOS 5.1.1 - 12.4 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
+Author: 
+Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.LocalIAPStore
+Name: LocalIAPStore
+
+Package: com.blackjw1212.linethemehack
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer:  <repo@>
+Depends: mobilesubstrate
+Filename: ./debians/com.blackjw1212.linethemehack_2.0.2.deb
+Size: 59,020
+MD5sum: 3a82b0d006e09bf5f6004c7fc1f4e62f
+Section: Tweaks
+Priority: optional
+Description: Free All Theme Store.
+Author: 
+Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.linethemehack
+Name: Line Theme Hack
