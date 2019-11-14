@@ -4,8 +4,8 @@ Architecture: iphoneos-arm
 Maintainer: Yud1 <smilelove426@gmai.com>
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.esunbankbypass_1.0-69+debug.deb
-Size: 5,568
-MD5sum: 0e7999bf399419ac8b8872b23f3f9110
+Size: 6,602
+MD5sum: 1bc5d482dd50daf15525e894b58327a5
 Section: Tweaks
 Priority: optional
 Description: Bypass ESunbank Jailbreak Detection
