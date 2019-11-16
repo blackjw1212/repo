@@ -19,7 +19,7 @@ Architecture: iphoneos-arm
 Maintainer: 
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.localiapstore_1.4-1.deb
-Size: 71034
+Size: 71008
 MD5sum: e207425f5b6d1dd49bb4d920d270ec65
 Section: Tweaks
 Priority: optional
