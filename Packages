@@ -42,3 +42,18 @@ Description: Free All Theme Store.
 Author: 
 Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.linethemehack
 Name: Line Theme Hack
+
+Package: com.blackjw1212.spotilife
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer:  julio
+Depends: mobilesubstrate
+Filename: ./debians/com.blackjw1212.spotilife_1.1.deb
+Size: 197884
+MD5sum: 109536c8f9b664ea6c1b19ff0210b50e
+Section: Tweaks
+Priority: optional
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.spotilife
+Name: Spotilife
