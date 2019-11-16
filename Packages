@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Yud1 <smilelove426@gmai.com>
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.esunbankbypass_1.0-69+debug.deb
-Size: 5,568
+Size: 5568
 MD5sum: 0e7999bf399419ac8b8872b23f3f9110
 Section: Tweaks
 Priority: optional
@@ -19,7 +19,7 @@ Architecture: iphoneos-arm
 Maintainer: 
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.LocalIAPStore_1.4-1.deb
-Size: 71,170
+Size: 71170
 MD5sum: adce93b64675706f4a4c4b5204a1e8fe
 Section: Tweaks
 Priority: optional
@@ -34,7 +34,7 @@ Architecture: iphoneos-arm
 Maintainer:  <repo@>
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.linethemehack_2.0.2.deb
-Size: 59,020
+Size: 59020
 MD5sum: 3a82b0d006e09bf5f6004c7fc1f4e62f
 Section: Tweaks
 Priority: optional
