@@ -19,8 +19,8 @@ Architecture: iphoneos-arm
 Maintainer: 
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.LocalIAPStore_1.4-1.deb
-Size: 71012
-MD5sum: f4149196b532f0aa64420c2d378db40f
+Size: 71048
+MD5sum: b1fb5b7d75fcda4f7cc30917cd3a3c0d
 Section: Tweaks
 Priority: optional
 Description: Pwns In-app purchases on iOS 5.1.1 - 12.4 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
