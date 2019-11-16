@@ -23,7 +23,7 @@ Size: 71048
 MD5sum: b1fb5b7d75fcda4f7cc30917cd3a3c0d
 Section: Tweaks
 Priority: optional
-Description: Pwns In-app purchases on iOS 5.1.1 - 12.4 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
+Description: Pwns In-app purchases on iOS 5.1.1 - 13.2.2 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
 Author: 
 Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.LocalIAPStore
 Name: LocalIAPStore
