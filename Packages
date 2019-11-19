@@ -57,3 +57,18 @@ Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocke
 Author: julioverne
 Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.spotilife
 Name: Spotilife
+
+Package: com.blackjw1212.cydown
+Version: 7.0.1
+Architecture: iphoneos-arm
+Maintainer:  julio
+Depends: mobilesubstrate
+Filename: ./debians/com.blackjw1212.cydown_7.0.1.deb
+Size: 3529106
+MD5sum: 08518cc3e941970eede5bf80d12c24dc
+Section: Tweaks
+Priority: optional
+Description: Cydia Download Manager & Extra Features!
+Author: julioverne
+Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.cydown
+Name: CyDown
