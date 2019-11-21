@@ -72,3 +72,18 @@ Description: Cydia Download Manager & Extra Features!
 Author: julioverne
 Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.cydown
 Name: CyDown
+
+Package: com.blackjw1212.nsfwgram
+Version: 7.0.1
+Architecture: iphoneos-arm
+Maintainer:  Ash Wolf (Ninji) <ninji@wuffs.org>
+Depends: mobilesubstrate
+Filename: ./debians/com.blackjw1212.nsfwgram_0.0.6.deb
+Size: 5172
+MD5sum: 3f74e9bef74c337327963156f0f679c3
+Section: Tweaks
+Priority: optional
+Description: View explicit channels/groups in Telegram (5.11+)
+Author: Ash Wolf (Ninji) <ninji@wuffs.org>
+Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.nsfwgram
+Name: NSFWgram
