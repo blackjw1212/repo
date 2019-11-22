@@ -19,8 +19,8 @@ Architecture: iphoneos-arm
 Maintainer: 
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.localiapstore_1.4-1.deb
-Size: 71002
-MD5sum: 28c602be013dcf0302fc7af2a200504e
+Size: 70998
+MD5sum: 0ddfe7719b08354c1f8ff2253104e3bb
 Section: Tweaks
 Priority: optional
 Description: Pwns In-app purchases on iOS 5.1.1 - 13.2.2 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
@@ -79,8 +79,8 @@ Architecture: iphoneos-arm
 Maintainer:  Ash Wolf (Ninji) <ninji@wuffs.org>
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.nsfwgram_0.0.6.deb
-Size: 5132
-MD5sum: 99c60885817f07e723126cb21ff19bfe
+Size: 5146
+MD5sum: 192c317fbed21edfa49611739c0a1d4f
 Section: Tweaks
 Priority: optional
 Description: View explicit channels/groups in Telegram (5.11+)
