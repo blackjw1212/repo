@@ -1,7 +1,7 @@
 Package: com.blackjw1212.esunbankbypass
 Version: 1.0-69+debug
 Architecture: iphoneos-arm
-Maintainer: Yud1 <smilelove426@gmai.com>
+Maintainer: blackjw1212
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.esunbankbypass_1.0-69+debug.deb
 Size: 6592
@@ -16,7 +16,7 @@ Name: ESunbank Bypass
 Package: com.blackjw1212.localiapstore
 Version: 1.4-1
 Architecture: iphoneos-arm
-Maintainer: 
+Maintainer: blackjw1212
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.localiapstore_1.4-1.deb
 Size: 70910
@@ -31,7 +31,7 @@ Name: LocalIAPStore
 Package: com.blackjw1212.linethemehack
 Version: 2.0.2
 Architecture: iphoneos-arm
-Maintainer:  <repo@>
+Maintainer:  blackjw1212
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.linethemehack_2.0.2.deb
 Size: 81818
@@ -46,7 +46,7 @@ Name: Line Theme Hack
 Package: com.blackjw1212.spotilife
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer:  julio
+Maintainer:  blackjw1212
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.spotilife_1.1.deb
 Size: 197884
@@ -61,7 +61,7 @@ Name: Spotilife
 Package: com.blackjw1212.cydown
 Version: 7.0.1
 Architecture: iphoneos-arm
-Maintainer:  julio
+Maintainer:  blackjw1212
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Filename: ./debians/com.blackjw1212.cydown_7.0.1.deb
 Size: 3529084
@@ -76,11 +76,11 @@ Name: CyDown
 Package: com.blackjw1212.nsfwgram
 Version: 0.0.6
 Architecture: iphoneos-arm
-Maintainer:  Ash Wolf (Ninji) <ninji@wuffs.org>
+Maintainer:  blackjw1212
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.nsfwgram_0.0.6.deb
-Size: 5146
-MD5sum: 192c317fbed21edfa49611739c0a1d4f
+Size: 5158
+MD5sum: da01b0353b64b25a3763d5d600a5d258
 Section: Tweaks
 Priority: optional
 Description: View explicit channels/groups in Telegram (5.11+)
