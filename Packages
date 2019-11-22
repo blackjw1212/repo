@@ -62,10 +62,10 @@ Package: com.blackjw1212.cydown
 Version: 7.0.1
 Architecture: iphoneos-arm
 Maintainer:  julio
-Depends: mobilesubstrate
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Filename: ./debians/com.blackjw1212.cydown_7.0.1.deb
-Size: 3529106
-MD5sum: 08518cc3e941970eede5bf80d12c24dc
+Size: 3529084
+MD5sum: 43beb617a5f6505e09d80b49e7b0341b
 Section: Tweaks
 Priority: optional
 Description: Cydia Download Manager & Extra Features!
@@ -74,13 +74,13 @@ Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.
 Name: CyDown
 
 Package: com.blackjw1212.nsfwgram
-Version: 7.0.1
+Version: 0.0.6
 Architecture: iphoneos-arm
 Maintainer:  Ash Wolf (Ninji) <ninji@wuffs.org>
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.nsfwgram_0.0.6.deb
-Size: 5172
-MD5sum: 3f74e9bef74c337327963156f0f679c3
+Size: 5162
+MD5sum: 6e2cf8b2bd872d9c7c9caaacf31f1d4b
 Section: Tweaks
 Priority: optional
 Description: View explicit channels/groups in Telegram (5.11+)
