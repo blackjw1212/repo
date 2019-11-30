@@ -89,13 +89,13 @@ Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.
 Name: NSFWgram B
 
 Package: com.blackjw1212.fivehome13
-Version: 0.0.3
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer:  blackjw1212
 Depends: mobilesubstrate
-Filename: ./debians/com.blackjw1212.fivehome13_0.0.3.deb
-Size: 6200
-MD5sum: 5896ff2e150c712951425f6d9286a08d
+Filename: ./debians/com.blackjw1212.fivehome13_0.0.2_iphoneos-arm.debb
+Size: 6296
+MD5sum: ad29d358a60889df39fabc260c9f8341
 Section: Tweaks
 Priority: optional
 Description: 
@@ -104,13 +104,13 @@ Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.
 Name: FiveColumnHomeScreen13 B
 
 Package: com.blackjw1212.fiveicondock13
-Version: 0.0.3
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer:  blackjw1212
 Depends: mobilesubstrate
-Filename: ./debians/com.blackjw1212.fiveicondock13_0.0.3.deb
-Size: 6808
-MD5sum: ab002841f9b3eec858475e8989c1ea0a
+Filename: ./debians/com.blackjw1212.fiveicondock13_0.0.2_iphoneos-arm.deb
+Size: 6908
+MD5sum: 21933a7f0a549e67182413e26f746a25
 Section: Tweaks
 Priority: optional
 Description: 
