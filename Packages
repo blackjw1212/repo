@@ -78,9 +78,9 @@ Version: 0.0.7
 Architecture: iphoneos-arm
 Maintainer:  blackjw1212
 Depends: mobilesubstrate
-Filename: ./debians/com.blackjw1212.nsfwgram_0.0.6.deb
-Size: 5,122
-MD5sum: d9e4b441cc2aa62e6a8021a85e78b280
+Filename: ./debians/com.blackjw1212.nsfwgram_0.0.7.deb
+Size: 5122
+MD5sum: 15c52681038d4ed870fbeb9358037037
 Section: Tweaks
 Priority: optional
 Description: View explicit channels/groups in Telegram (5.11+)
@@ -93,9 +93,9 @@ Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer:  blackjw1212
 Depends: mobilesubstrate
-Filename: ./debians/com.blackjw1212.fivehome13_0.0.2.deb
-Size: 6208
-MD5sum: 49daa5f371262c02441b54919026c7aa
+Filename: ./debians/com.blackjw1212.fivehome13_0.0.3.deb
+Size: 6200
+MD5sum: 5896ff2e150c712951425f6d9286a08d
 Section: Tweaks
 Priority: optional
 Description: 
@@ -108,9 +108,9 @@ Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer:  blackjw1212
 Depends: mobilesubstrate
-Filename: ./debians/com.blackjw1212.fiveicondock13_0.0.2.deb
+Filename: ./debians/com.blackjw1212.fiveicondock13_0.0.3.deb
 Size: 6808
-MD5sum: 8243db3e048870f65a8b58e42dc7b335
+MD5sum: ab002841f9b3eec858475e8989c1ea0a
 Section: Tweaks
 Priority: optional
 Description: 
