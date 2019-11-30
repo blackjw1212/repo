@@ -93,7 +93,7 @@ Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer:  blackjw1212
 Depends: mobilesubstrate
-Filename: ./debians/com.blackjw1212.fivehome13_0.0.2_iphoneos-arm.debb
+Filename: ./debians/com.blackjw1212.fivehome13_0.0.2.debb
 Size: 6296
 MD5sum: ad29d358a60889df39fabc260c9f8341
 Section: Tweaks
@@ -108,12 +108,12 @@ Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer:  blackjw1212
 Depends: mobilesubstrate
-Filename: ./debians/com.blackjw1212.fiveicondock13_0.0.2_iphoneos-arm.deb
+Filename: ./debians/com.blackjw1212.fiveicondock13_0.0.2.deb
 Size: 6908
 MD5sum: 21933a7f0a549e67182413e26f746a25
 Section: Tweaks
 Priority: optional
-Description: 
+Description: Five Icons on your Dock for iOS 13
 Author: Ichitaso
 Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.fiveicondock13
 Name: FiveIconDock13
