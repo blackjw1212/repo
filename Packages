@@ -94,7 +94,7 @@ Architecture: iphoneos-arm
 Maintainer:  blackjw1212
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.fivehome13_0.0.2.deb
-Size: 5158
+Size: 6260
 MD5sum: def3aa2ff6105f9090b4d8c8a9b52ca0
 Section: Tweaks
 Priority: optional
@@ -109,7 +109,7 @@ Architecture: iphoneos-arm
 Maintainer:  blackjw1212
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.fiveicondock13_0.0.2.deb
-Size: 5158
+Size: 6876
 MD5sum: 50d5a1ce72f23f97e55b6bfbc45ef57d
 Section: Tweaks
 Priority: optional
