@@ -79,8 +79,8 @@ Architecture: iphoneos-arm
 Maintainer:  blackjw1212
 Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.nsfwgram_0.0.6.deb
-Size: 5158
-MD5sum: da01b0353b64b25a3763d5d600a5d258
+Size: 5,122
+MD5sum: d9e4b441cc2aa62e6a8021a85e78b280
 Section: Tweaks
 Priority: optional
 Description: View explicit channels/groups in Telegram (5.11+)
@@ -89,7 +89,7 @@ Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.
 Name: NSFWgram
 
 Package: com.blackjw1212.fivehome13
-Version: 0.0.2
+Version: 0.0.2-1
 Architecture: iphoneos-arm
 Maintainer:  blackjw1212
 Depends: mobilesubstrate
@@ -104,7 +104,7 @@ Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.
 Name: FiveColumnHomeScreen13
 
 Package: com.blackjw1212.fiveicondock13
-Version: 0.0.2
+Version: 0.0.2-1
 Architecture: iphoneos-arm
 Maintainer:  blackjw1212
 Depends: mobilesubstrate
