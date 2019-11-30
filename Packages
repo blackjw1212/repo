@@ -101,20 +101,18 @@ Priority: optional
 Description: Add a fifth column of icons to your Home screen
 Author: Ichitaso
 Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.fivehome13
-Name: FiveColumnHomeScreen13
+Name: FiveColumnHomeScreen13 
 
 Package: com.blackjw1212.fiveicondock13
 Version: 0.0.2
 Architecture: iphoneos-arm
-Maintainer:  blackjw1212
 Depends: mobilesubstrate
+Maintainer: blackjw1212
 Filename: ./debians/com.blackjw1212.fiveicondock13_0.0.2.deb
 Size: 6908
 MD5sum: 21933a7f0a549e67182413e26f746a25
 Section: Tweaks
 Priority: optional
 Description: Five Icons on your Dock for iOS 13
-Author: Ichitaso
 Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.fiveicondock13
 Name: FiveIconDock13
-
