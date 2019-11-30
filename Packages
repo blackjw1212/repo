@@ -86,7 +86,7 @@ Priority: optional
 Description: View explicit channels/groups in Telegram (5.11+)
 Author: Ash Wolf (Ninji) <ninji@wuffs.org>
 Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.nsfwgram
-Name: NSFWgram B
+Name: NSFWgram
 
 Package: com.blackjw1212.fivehome13
 Version: 0.0.2
@@ -101,7 +101,7 @@ Priority: optional
 Description: 
 Author: Ichitaso
 Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.fivehome13
-Name: FiveColumnHomeScreen13 B
+Name: FiveColumnHomeScreen13
 
 Package: com.blackjw1212.fiveicondock13
 Version: 0.0.2
@@ -116,5 +116,5 @@ Priority: optional
 Description: 
 Author: Ichitaso
 Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.fiveicondock13
-Name: FiveIconDock13 B
+Name: FiveIconDock13
 
