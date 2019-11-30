@@ -91,8 +91,6 @@ Name: NSFWgram
 Package: com.blackjw1212.fivehome13
 Version: 0.0.2
 Architecture: iphoneos-arm
-Maintainer:  blackjw1212
-Depends: mobilesubstrate
 Filename: ./debians/com.blackjw1212.fivehome13_0.0.2.debb
 Size: 6296
 MD5sum: ad29d358a60889df39fabc260c9f8341
@@ -106,8 +104,7 @@ Name: FiveColumnHomeScreen13
 Package: com.blackjw1212.fiveicondock13
 Version: 0.0.2
 Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Maintainer: blackjw1212
+Author: Ichitaso
 Filename: ./debians/com.blackjw1212.fiveicondock13_0.0.2.deb
 Size: 6908
 MD5sum: 21933a7f0a549e67182413e26f746a25
