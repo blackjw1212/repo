@@ -88,28 +88,54 @@ Author: Ash Wolf (Ninji) <ninji@wuffs.org>
 Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.nsfwgram
 Name: NSFWgram
 
-Package: com.blackjw1212.fivehome13
-Version: 0.0.2
+Package: com.blackjw1212.CODG
+Version: 1.6.9.2105
 Architecture: iphoneos-arm
-Filename: ./debians/com.blackjw1212.fivehome13_0.0.2.debb
-Size: 6296
-MD5sum: ad29d358a60889df39fabc260c9f8341
+Filename: ./debians/com.blackjw1212.CODG_1.6.9.2105.deb
+Size: 1045494
+MD5sum: 6da3554e27913da2aad53d2a45f4becd
 Section: Tweaks
 Priority: optional
-Description: Add a fifth column of icons to your Home screen
-Author: Ichitaso
-Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.fivehome13
-Name: FiveColumnHomeScreen13 
+Description: 
+Author: 
+Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.CODG
+Name: Call of Duty Mobile C
 
-Package: com.blackjw1212.fiveicondock13
-Version: 0.0.2
+Package: com.blackjw1212.pubgmobile
+Version: 0.15.0
 Architecture: iphoneos-arm
-Author: Ichitaso
-Filename: ./debians/com.blackjw1212.fiveicondock13_0.0.2.deb
-Size: 6908
-MD5sum: 21933a7f0a549e67182413e26f746a25
+Filename: ./debians/com.blackjw1212.pubgmobile_0.15.0.deb
+Size: 1042042
+MD5sum: 653b60779b5598da0d93c72b94b74f23
 Section: Tweaks
 Priority: optional
-Description: Five Icons on your Dock for iOS 13
-Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.fiveicondock13
-Name: FiveIconDock13
+Description: 
+Author: 
+Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.pubgmobile
+Name: PUBG Mobile C
+
+Package: com.blackjw1212.mariokart
+Version: 1.2.0
+Architecture: iphoneos-arm
+Filename: ./debians/com.blackjw1212.mariokart_1.2.0.deb
+Size: 1040110
+MD5sum: 070ec700da7f5f337ac7f3422de73b57
+Section: Tweaks
+Priority: optional
+Description: 
+Author: 
+Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.mariokart
+Name: Mario Kart Tour C
+
+Package: com.blackjw1212.picsart
+Version: 13.0
+Architecture: iphoneos-arm
+Filename: ./debians/com.blackjw1212.picsart_13.0.deb
+Size: 1039632
+MD5sum: 868e2839129ead352d32e3414d2cf1cc
+Section: Tweaks
+Priority: optional
+Description: 
+Author: 
+Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.picsart
+Name: PicsArt C
