@@ -1,152 +1,10 @@
-Package: com.blackjw1212.esunbankbypass
-Version: 1.0-69+debug
+Package: com.blackjw1212
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: blackjw1212
-Depends: mobilesubstrate
-Filename: ./debians/com.blackjw1212.esunbankbypass_1.0-69+debug.deb
-Size: 6592
-MD5sum: 53cc214fcb085e8a7f2e88d52086d0bd
-Section: Tweaks
-Priority: optional
-Description: Bypass ESunbank Jailbreak Detection
-Author: Yud1 <smilelove426@gmai.com>
-Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.esunbankbypass
-Name: ESunbank Bypass
-
-Package: com.blackjw1212.localiapstore
-Version: 1.4-1
-Architecture: iphoneos-arm
-Maintainer: blackjw1212
-Depends: mobilesubstrate
-Filename: ./debians/com.blackjw1212.localiapstore_1.4-1.deb
-Size: 70910
-MD5sum: 38aa6aefb80068af42036056a51107a5
-Section: Tweaks
-Priority: optional
-Description: Pwns In-app purchases on iOS 5.1.1 - 13.2.2 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
-Author: anondev
-Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.localiapstore
-Name: LocalIAPStore
-
-Package: com.blackjw1212.linethemehack
-Version: 2.0.2
-Architecture: iphoneos-arm
-Maintainer:  blackjw1212
-Depends: mobilesubstrate
-Filename: ./debians/com.blackjw1212.linethemehack_2.0.2.deb
-Size: 81818
-MD5sum: 26e4b2475291ea055613794473bdc4f1
-Section: Tweaks
-Priority: optional
-Description: Free All Theme Store.
-Author: 
-Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.linethemehack
-Name: Line Theme Hack
-
-Package: com.blackjw1212.spotilife
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer:  blackjw1212
-Depends: mobilesubstrate
-Filename: ./debians/com.blackjw1212.spotilife_1.1.deb
-Size: 197884
-MD5sum: 109536c8f9b664ea6c1b19ff0210b50e
-Section: Tweaks
-Priority: optional
-Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
-Author: julioverne
-Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.spotilife
-Name: Spotilife
-
-Package: com.blackjw1212.cydown
-Version: 7.0.1
-Architecture: iphoneos-arm
-Maintainer:  blackjw1212
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
-Filename: ./debians/com.blackjw1212.cydown_7.0.1.deb
-Size: 3529084
-MD5sum: 43beb617a5f6505e09d80b49e7b0341b
-Section: Tweaks
-Priority: optional
-Description: Cydia Download Manager & Extra Features!
-Author: julioverne
-Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.cydown
-Name: CyDown
-
-Package: com.blackjw1212.nsfwgram
-Version: 0.0.6
-Architecture: iphoneos-arm
-Maintainer:  blackjw1212
-Depends: mobilesubstrate
-Filename: ./debians/com.blackjw1212.nsfwgram_0.0.6.deb
-Size: 5122
-MD5sum: 15c52681038d4ed870fbeb9358037037
-Section: Tweaks
-Priority: optional
-Description: View explicit channels/groups in Telegram (5.11+)
-Author: Ash Wolf (Ninji) <ninji@wuffs.org>
-Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.nsfwgram
-Name: NSFWgram
-
-Package: com.blackjw1212.CODG
-Version: 1.6.9.2105
-Architecture: iphoneos-arm
-Filename: ./debians/com.blackjw1212.CODG_1.6.9.2105.deb
-Size: 1045494
-MD5sum: 6da3554e27913da2aad53d2a45f4becd
-Section: Tweaks
-Priority: optional
-Description: 
-Author: 
-Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.CODG
-Name: Call of Duty Mobile C
-
-Package: com.blackjw1212.pubgmobile
-Version: 0.15.0
-Architecture: iphoneos-arm
-Filename: ./debians/com.blackjw1212.pubgmobile_0.15.0.deb
-Size: 1042042
-MD5sum: 653b60779b5598da0d93c72b94b74f23
-Section: Tweaks
-Priority: optional
-Description: 
-Author: 
-Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.pubgmobile
-Name: PUBG Mobile C
-
-Package: com.blackjw1212.mariokart
-Version: 1.2.0
-Architecture: iphoneos-arm
-Filename: ./debians/com.blackjw1212.mariokart_1.2.0.deb
-Size: 1040110
-MD5sum: 070ec700da7f5f337ac7f3422de73b57
-Section: Tweaks
-Priority: optional
-Description: 
-Author: 
-Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.mariokart
-Name: Mario Kart Tour C
-
-Package: com.blackjw1212.picsart
-Version: 13.0
-Architecture: iphoneos-arm
-Filename: ./debians/com.blackjw1212.picsart_13.0.deb
-Size: 1039632
-MD5sum: 868e2839129ead352d32e3414d2cf1cc
-Section: Tweaks
-Priority: optional
-Description: 
-Author: 
-Depiction: https://blackjw1212.github.io/repo/depictions/web/?p=com.blackjw1212.picsart
-Name: PicsArt C
-
-Package: xyz.willy.zebra
-Version: 1.0~beta9
-Architecture: iphoneos-arm
-Maintainer: Wilson Styres <wilson@styres.me>
+Maintainer: blackjw1212 <blackjw1212@styres.me>
 Installed-Size: 5168
 Depends: dpkg
-Filename: ./pkgfiles/xyz.willy.zebra_1.0~beta9_iphoneos-arm.deb
+Filename: ./pkgfiles/blackjw1212_1.0_iphoneos-arm.deb
 Size: 1763006
 MD5sum: 66700ff4f55953b965944ac6160fafa2
 SHA1: 8732fc4eec4f505349ecaa7e41ce59ab0d5d0a4c
@@ -154,6 +12,6 @@ SHA256: 7a442243f436393f81da41195eda8f12b6f9dec5ac8d3451fae57eef3999382d
 Section: Packaging
 Description: A Useful Package Manager
 Tag: purpose::x
-Author: Wilson Styres <wilson@styres.me>
-Depiction: https://xtm3x.github.io/repo/depictions/xyz.willy.zebra/
+Author: blackjw1212 <blackjw1212@styres.me>
+Depiction: https://blackjw1212.github.io/repo/BETA/depictions/com.blackjw1212/
 Name: Zebra (BETA)
